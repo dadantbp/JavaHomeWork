@@ -27,8 +27,7 @@ public class Task_2 {
             if (inputNumber >= numberOfRange2) {
                 System.out.println("The number belongs to the third range");
             }
-        }
-        else {
+        } else {
             if (inputNumber <= numberOfRange2) {
                 System.out.println("The number belongs to the first range");
             }
