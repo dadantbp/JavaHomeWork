@@ -2,7 +2,7 @@ package JavaHomeWork1;
 
 import java.util.Random;
 
-public class Task_1 {1
+public class Task_1 {
     public static void main(String[] args) {
 
         int dayOfWeek = new Random().nextInt(11) + 1;
