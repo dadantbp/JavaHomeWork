@@ -20,7 +20,7 @@ public class Task_3 {
                 System.out.println("Поздравляем! Вы ответили верно");
                 break;
             } else if (answerFromUser == -1) {
-                System.out.println("Вы сдались, верный ответ 16");
+                System.out.println("Вы сдались, верный ответ " + CORRECT_ANSWER);
                 break;
             }
             count++;
